@@ -127,3 +127,9 @@ dmypy.json
 
 # Pyre type checker
 .pyre/
+
+# Igngore data files
+*.csv
+*.png
+*.p
+*.json 
